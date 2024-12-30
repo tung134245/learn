@@ -1,0 +1,4 @@
+04:00:57:INFO:<module>: This is an info message.
+04:00:57:WARNING:<module>: This is a warning message.
+04:00:57:ERROR:<module>: This is an error message.
+04:00:57:CRITICAL:<module>: This is a critical message.
